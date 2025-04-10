@@ -1,4 +1,5 @@
 datasets/
 models/
+legacy/
 .venv/
 __pycache__/

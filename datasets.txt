@@ -1,4 +1,0 @@
-animals - https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals
-animals_survival - https://www.kaggle.com/datasets/sanadalali/animal-categories-90-masters-of-survival?select=labels.csv
-animals_2 - https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset/data
-wildfires - https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset?select=train
