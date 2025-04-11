@@ -2,4 +2,5 @@ datasets/
 models/
 legacy/
 .venv/
+checkpoints/
 __pycache__/
