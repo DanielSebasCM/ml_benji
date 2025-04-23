@@ -278,11 +278,12 @@ The fourth model was a sequential model with the following architecture:
 
 ### Conclusions
 
-The training accuracy and loss are worst than the previous model but the test metrics all improved, by a very low margin but improved nonetheless. The model did take more time to train (100 extra epochs) and there is still overfitting but it was a step in the right direction.
+The training accuracy and loss are worst than the previous model but the test metrics all improved, by a very low margin but improved nonetheless. The model did take more time to train (100 extra epochs) and there is still overfitting but it was considerably lower ad the training and testing metrics were closer. This could imply that further training will still be worth compared to the previous models that would just continue to overfit.
 
 ## Discussion
 
 When compared with other attempts of image classification with this limited dataset, the results are quite underwhelming. As seen in [this notebook](https://www.kaggle.com/code/muhammadfaizan65/90-animals-image-classification-efficientnetb3/notebook) The author was able to achieve an F1 score of 0.94 and validation accuracy of 93%. This was achieved using the EfficientNetB3 model with transfer learning and data augmentation. It seem that the VGG16 model is not the best choice for this task. The EfficientNetB3 model is more recent and has been shown to outperform the VGG16 model in most tasks as shown in [2].
+
 ## References
 
 [1] K. Simonyan and A. Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition," arXiv preprint arXiv:1409.1556, Sep. 2014. [Online]. Available: https://arxiv.org/pdf/1409.1556
